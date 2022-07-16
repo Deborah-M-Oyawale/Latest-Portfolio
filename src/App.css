@@ -1,0 +1,148 @@
+/* .LeftBar{
+    width: 45%;
+    height:100vh;
+    position: fixed;
+    top:0;
+    left: 0;
+    background:red;
+} */
+
+/* main{
+    width: 50%;left-45
+    padding: 50px 0;
+    background: orange;
+    position: absolute;
+    left: 45%;
+    top: 0;
+} */
+
+/* .right-bar{
+    width: 5%;
+    height:100vh;
+    position: fixed;
+    right: 0;
+    background:crimson
+} */
+
+.backgroundImage{
+    background-image: url(./Assets/BEYOUTIFUL.jpeg);
+    background-size: cover;
+    
+}
+
+.name{
+    font-size: 70px;
+    padding: 80px 35px 80px 65px;
+    color: #fff;
+    font-weight: 900;
+    margin: 180px 0 0 -250px;
+    border-radius: 170px;
+    background-color:#373b40;
+    line-height: 1.2;
+    width: 480px;
+    align-self: center;
+
+}
+
+.name-sm {
+    padding-bottom:60px;
+    line-height: 1.2;
+}
+
+.contactButton{
+    padding: 25px 25px;
+    border-radius: 80px;
+    outline: none;
+    border: 2px solid #808080 ;
+    background: #585d65;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+
+.date{
+    writing-mode: vertical-lr;
+    color: #68e0cf;
+    text-orientation: mixed;
+}
+
+.coding-skill-circle{
+    width: 130px;
+      height: 130px;
+      display: flex;
+      border: 2px solid #68e0cf;
+      border-radius: 50%;
+      justify-content: center;
+      align-items: center;
+      margin-top: 50px;
+}
+
+.images-of-partners{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    gap: 20px;
+    color: #585d65;
+}
+
+.label-border{
+    border: 1px solid #585d65 ;
+    background: none;  
+    margin-bottom: 150px;
+    padding: 20px 80px 40px 60px;
+    border-radius: 40px;
+    position: absolute;
+}
+
+.text-in {
+    position: relative;
+    padding-bottom: 40px;
+}
+.authors-role{
+    padding-bottom: 30px;
+}
+.label-text {
+    position: relative;
+    top: 11px;
+    left: 45px;
+    background: #373b40;
+    z-index: 10;
+}
+
+.contact-wrapper button{
+    padding: 15px 25px;
+    border-radius: 80px;
+    outline: none;
+    border: 1px solid #808080 ;
+    background: none;
+    color: #fff;
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 250px;
+    margin-bottom: 200px;
+}
+.signature{
+    padding-top: 45px;
+    font-family: 'Mr Dafoe', cursive;
+    font-weight: 500;
+    font-size: 35px;
+}
+
+.authors-information{
+    border: 1px solid #585d65;
+    width: 100%;
+    line-height: 40px;
+    padding: 40px 40px 100px 40px;
+    max-height: 572px;
+    border-radius: 30px;
+    position: relative;
+} 
+/* @media screen and (max-width: 768px) {
+    .leftBar{
+        background: green;
+    }
+} */
